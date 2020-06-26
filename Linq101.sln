@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{F659795D-F150-4E68-BB80-F12A455E8BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{58E39070-97D1-453C-AF4B-738CC5089960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLibrary", "LinqLibrary\LinqLibrary.csproj", "{F38AD2F9-1ECE-44A2-9394-F9161CADE716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F659795D-F150-4E68-BB80-F12A455E8BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F659795D-F150-4E68-BB80-F12A455E8BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F659795D-F150-4E68-BB80-F12A455E8BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F659795D-F150-4E68-BB80-F12A455E8BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E39070-97D1-453C-AF4B-738CC5089960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E39070-97D1-453C-AF4B-738CC5089960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E39070-97D1-453C-AF4B-738CC5089960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E39070-97D1-453C-AF4B-738CC5089960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38AD2F9-1ECE-44A2-9394-F9161CADE716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38AD2F9-1ECE-44A2-9394-F9161CADE716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38AD2F9-1ECE-44A2-9394-F9161CADE716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38AD2F9-1ECE-44A2-9394-F9161CADE716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9816A66-0157-428C-A5BB-F32513E87D0C}
+	EndGlobalSection
+EndGlobal
